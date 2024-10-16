@@ -26,8 +26,6 @@ To use the chime bell sound samples in your own project:
 
 3. **Load Audio Sources**: Open the `.nki` files in the `Samples/` folder directly in Kontakt or through your audio host software (e.g., Ableton, Logic Pro, etc.).
 
-4. **Explore the Models**: You can explore and modify the physical modeling code in the `Models/` directory if you are interested in understanding or extending the synthesis process.
-
 ---
 
 ## Credits
