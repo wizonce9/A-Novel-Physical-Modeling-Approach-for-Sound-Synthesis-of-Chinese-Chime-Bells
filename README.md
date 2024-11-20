@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the modeling and sampling data of Chinese chime bells used in the research paper titled "A Novel Physical Modeling Approach for Sound Synthesis of Chinese Chime Bells". The sound synthesis data has been compiled into the **Kontakt format** for use in popular audio host software.
+![3369f717e325d7b3fdaad30d2dd9f9d](https://github.com/user-attachments/assets/d0f0a471-a5c1-4629-be9c-886498ad13b7)
 
 ### Key Features:
 - **Kontakt Audio Sources**: The audio data is in Kontakt format, which is widely used in audio production software.
