@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the modeling and sampling data of Chinese chime bells used in the research paper titled "A Novel Physical Modeling Approach for Sound Synthesis of Chinese Chime Bells". The sound synthesis data has been compiled into the **Kontakt format** for use in popular audio host software.
+
 ![3369f717e325d7b3fdaad30d2dd9f9d](https://github.com/user-attachments/assets/d0f0a471-a5c1-4629-be9c-886498ad13b7)
 
 ### Key Features:
@@ -26,6 +27,12 @@ To use the chime bell sound samples in your own project:
 2. **Install Kontakt**: Ensure that you have the latest version of **Kontakt** or any compatible software for using Kontakt instruments.
 
 3. **Load Audio Sources**: Open the `.nki` files in the `Samples/` folder directly in Kontakt or through your audio host software (e.g., Ableton, Logic Pro, etc.).
+
+### Download Additional Files
+The `64 Bian Zhong 1.0 KONTAKT.zip` file is too large to be hosted directly on GitHub. You can download it from the following link:
+
+- **Baidu Netdisk Download Link**: [64 Bian Zhong 1.0 KONTAKT.zip](https://pan.baidu.com/s/1f84f8WniHkdJJM0Sv9SyFw)  
+  Extraction Code: **hmre**
 
 ---
 
@@ -56,4 +63,3 @@ For more information, feel free to reach out to the corresponding author:
 **Weijia Yang**  
 Email: [vjkisa520@gmail.com](mailto:vjkisa520@gmail.com)
 
----
